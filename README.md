@@ -1,4 +1,4 @@
-# transferred_to_open2c
+# Open2C
 
 Repositories for cooler, cooltools, pairtools, distiller, polychrom, bioframe, and others were transferred to [Open2C](https://github.com/open2c).
 
