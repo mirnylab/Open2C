@@ -1,6 +1,6 @@
 # Open2C
 
-Community repositories that originated in the Mirny lab and were transferred to [Open2C](https://github.com/open2c).
+Community repositories that originated in the Mirny lab and were transferred to Open Chromosome Collective, [Open2C](https://github.com/open2c).
 
 * [cooler](https://github.com/open2c/cooler): a cool place to store your Hi-C
 * [cooltools](https://github.com/open2c/cooltools): the tools for your .cool's (community Hi-C data analysis library)
